@@ -15,7 +15,7 @@
     "react"
   ],
   "scripts": {
-    "prepare": "npm run build",
+    "prepare": "pnpm run build",
     "preinstall": "npx only-allow pnpm",
     "postinstall": "simple-git-hooks",
     "format": "prettier --write --cache .",
