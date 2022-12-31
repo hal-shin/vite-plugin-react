@@ -1,5 +1,6 @@
 {
   "name": "@vitejs/vite-plugin-react-monorepo",
+  "version": "3.0.1",
   "private": true,
   "engines": {
     "node": "^14.18.0 || >=16.0.0"
